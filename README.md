@@ -91,5 +91,5 @@ endmodule
 
 
 **Result:**
-
+The program is verified successfully using the software quartus prime.
 
